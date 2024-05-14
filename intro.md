@@ -49,20 +49,6 @@ You should know three things about your character before their first adventure:
 2. What key events caused them to leave their prior life behind
 3. What they hope to gain from adventuring in the West Marches
 
-## **Important Rules**
-
-**Critical hits:** When you roll a critical hit, any additional damage dice that would be rolled instead use their maximum value.
-
-**Rest Variant: Gritty Realism.** While outside of the town of Gatharam, a short rest takes 8 hours and long rests take 7 days.
-
-**Inspiration.** Characters can stack more than one inspiration at a time. Additionally, a player can choose to use an Inspiration after they find out their roll fails. Inspiration will be awarded for the following reasons:
-
-- At the DM’s discretion
-- For writing and posting a session summary
-- For updating the player maintained region map with new locations
-
-Additional rules may be added in the future, as needed
-
 ## **Pause For a Minute**
 
 During the game, at any time, a player or the DM can say “Pause for a minute” to stop the current conversation, break character, and address the situation. This can be used for anything from “I really don’t like this thing in the game” to “I don’t understand why we’re in this dungeon”. Use it freely to clarify the direction of the game and address any concerns.
