@@ -23,6 +23,7 @@ The region is always changing. The characters play a small part in the world, an
 For this setting, choose class, race, feats, and spell options from the Player’s Handbook, Xanathar’s Guide to Everything, Tasha’s Cauldron of Everything, and Mordenkainen Presents: Monsters of the Multiverse. The Custom Origin option in TCoE is allowed. Other sources may be allowed on a case by case basis. Ask your DM!
 
 All characters start at level 1, using the shared stat array (16, 15, 15, 13, 13, 12) or 44 point-buy, using the following point-buy table:
+
 |Score|Cost|
 |---|---|
 |8 (or less)    |0|
