@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Campaign Introduction
+# **Gatharam: The West Marches**
 
 *Days beyond the most remote borders of the Empire of Marithell lies a town of ill repute – Gatharam. While most men and women are content to rest within their villages, a select few feel the call of the wilds beyond civilization. By tradition, Gatharam is where these men and women gather to venture forth.*
 
