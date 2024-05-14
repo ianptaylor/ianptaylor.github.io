@@ -2,19 +2,13 @@
 layout: default
 ---
 
-# Campaign Introduction
-
-*Days beyond the most remote borders of the Empire of Marithell lies a town of ill repute – Gatharam. While most men and women are content to rest within their villages, a select few feel the call of the wilds beyond civilization. By tradition, Gatharam is where these men and women gather to venture forth.*
-
-*Some are successful, and discover adventure and untold riches in the ancient, untamed wilderness. Those that are unsuccessful still discover the one truth of The West Marches: the wilds are a dangerous place.*
-
-## **What is The West Marches?**
+# **What is The West Marches?**
 
 The West Marches is a style of game that focuses on exploration, survival, and adventure. There is no set party – any player can make and play a new character at any time. As long as the DM and 3 to 5 players are available, a game can happen.
 
 This is a semi-sandbox style game. There will be rumors and threads that characters can follow to seek out adventure, but it is just as viable (although maybe not as efficient) to begin wandering in the wilderness and let the adventure come to you.
 
-Players take on the responsibility of uncovering new adventures, recruiting other characters to join on the adventure, and scheduling the session.
+Players take on the responsibility of uncovering new adventures, recruiting other characters to join on the adventure, and then scheduling the session with the DM.
 
 ## **Truths of The West Marches**
 
