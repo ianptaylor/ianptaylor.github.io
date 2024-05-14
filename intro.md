@@ -24,18 +24,18 @@ For this setting, choose class, race, feats, and spell options from the Playerâ€
 
 All characters start at level 1, using the shared stat array (16, 15, 15, 13, 13, 12) or 44 point-buy, using the following point-buy table:
 |Score|Cost
-|---|---
-|8 (or less)    |0
-|9 |1
-|10 |2
-|11 |3
-|12 |4
-|13 |5
-|14 |7
-|15 |9
-|16 |12
-|17 |15
-|18 |19
+|---|---|
+|8 (or less)    |0|
+|9 |1|
+|10 |2|
+|11 |3|
+|12 |4|
+|13 |5|
+|14 |7|
+|15 |9|
+|16 |12|
+|17 |15|
+|18 |19|
 
 Character advancement is based on experience points which will be awarded for slaying monsters, as well as completing exploration or survival based tasks. Exact values depend on characterâ€™s level, wilderness tier, and difficulty of the tasks performed. Additional rewards may be added later.
 
