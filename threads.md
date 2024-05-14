@@ -14,3 +14,4 @@ These are the current open threads:
 7. Chases the Wind heard a rumor about an ogre carrying a (huge) skull up a hillside.
 8. The excursion to Muck's door revealed an unknown dungeo,, with much more to be explored.
 9. A entrance to a tomb of black skulls was found on the way to the shrine of healing water (which also had additional chambers left unexplored).
+10. The tomb of Esur the Red is somewhere out there. Legends tell of his heavy black iron ring which he wore braided into his beard. With this ring, he was said to have defeated hordes of undead, and the Lich King Kasdall.
