@@ -5,8 +5,8 @@ layout: default
 # Session Recaps
 
 ## Session 8
-**In-game date: ??**
-**Author: Wyndham Calavar**
+**In-game date: ??**  
+**Author: Wyndham Calavar**  
 Well that was a close one… we almost got turned into sacrifices by the Mother of the Gloomwood because we failed a test to prove we were elves. Kind of silly when you think of it because clearly a tiefling, a goblin, a tabaxi and an air genasi are not elves 🤷‍♂️
 
 After Xyl showed her scarred hand to the elf who vouched for us, he yelled something about mark of the rogue-kin and the Mother changed her tune… kind of.
@@ -25,8 +25,8 @@ Love ya diary,
 Wyndham Calavar
 
 ## Session 7
-**In-game date: ??**
-**Author: Krate the Great**
+**In-game date: ??**  
+**Author: Krate the Great**  
  I can’t seem to shake this cough of mine, so I talked to Gavrak to see if he had any ideas. He offered that there was an ancient shrine somewhere in the grassy plains that travelers used to use to cure their ailments. Sounded promising, so I enlisted my friends Xylnessa and Chase and a few newcomers named Grim and Swooper to go on a searching expedition. We headed west because we had to head somewhere! We didn’t encounter much aside from some sassy unhelpful birds and a pack of HORRIFYINGLY HUGE WOLVES. But we fought them off easily enough, with the newbies more than carrying their weight.
 
 As we traveled, Grim seemed to remember that elves used to build shrines on leylines and that they had marked leylines with standing stones. Since we knew two standing stone locations, we decided to follow a straight line between those markers and hope we’d get lucky and stumble onto something. Eventually we did come across something, but it was marked by a skull and didn’t look very inviting. We marked it down on our map as something to check out later, but we continued on.
@@ -35,8 +35,8 @@ Eventually we did find some ruins near an impressively large tree in the middle 
 Finally we left via a set of very convenient stairs that we maybe should’ve used initially. We made it back to Gatharam in one piece. I’d definitely travel with Grim and Swooper again. Especially Swooper. He really seems to get it in a way that the tall ones never do…
 
 ## Session 6
-**In-game date: ??**
-**Author: Krate the Great**
+**In-game date: ??**  
+**Author: Krate the Great**  
 I met up with Xylnessa back at the tavern to figure out our next adventure. She told me about a gnome named Muck who'd been bragging about a mysterious door in the hills north of R'Hini before going missing. We decided to investigate with the help of our buddy Wyndham who we found hanging around the bar. We also found a new adventurer named Arneder who had just what we needed: some wings! And as a fellow little guy, I knew he'd be up to the task.
 
 We set out toward R'Hini that morning. I spent the first day foraging for herbs and didn't keep an eye on Xylnessa and Arn as they got us lost somewhere east of R'Hini. Can't trust anyone but me and my bees I swear... anyway we decided to set up camp and get back on track in the morning. As I kept watch, another swarm of dang insects climbed all up over everyone while they slept. I didn't want to panic them so I let the bugs go by, but this is something we need to understand eventually.
@@ -48,8 +48,8 @@ The next day we found our way to the mysterious door in the hill side. We popped
 Eventually we got back to town and caught our breaths. There's a lot more to see and do in that dungeon, but we should probably find more backup first.
 
 ## Session 5.5
-**In-game date: 29 May 527**
-**Author: Chases the Wind**
+**In-game date: 29 May 527**  
+**Author: Chases the Wind**  
 After absolutely slaughtering those weird cultists we were pretty wiped so we took a break for a few hours. We found this huge door with symbols and stuff in all different languages. We were stumped by the door combination so Krate just tried every one til it opened. 
 
 We then went down into the cavern where we found a spooky ritual chamber. There was some shape on the ground. I think Krate called it a “nonogon” with a bunch of candles around. There were also cages with 7 bodies in them! Thankfully one of them was still alive and it was Kharll! After a chest coughed some Covid on Krate we rushed Kharll out of there and back to R’Hini. 
@@ -61,8 +61,8 @@ We left for Gatharam first thing in the morning. After returning to town we sold
 Well my first official quest with an adventuring party was a lot of fun it was also really scary, but I feel a lot stronger now and ready to take on more quests! At this rate I’ll be high enough level to save Markus from that dragon in no time!
 
 ## Session 5
-**In-game date: ??**
-**Author: Krate the Great**
+**In-game date: ??**  
+**Author: Krate the Great**  
 After a few days in Gatharam, I met up with Xylnessa at the usual spot to plan our next outing. Wyndham and Ylva were MIA, probably adventuring elsewhere, so we snagged a fresh young tabaxi named Chase instead to show him the ropes. We decided our next course of action was to head up to R'Hini and swing by Gavraks Marvelous Emporium on the way to ask about Rihanna's potion and see his wares.
 
 About a mile outside of town we found the rotting bodies of some bandits and some of my former companions. RIP in peace, but easy come easy go. We kept a wide berth and continued on until we found Gavrak's hut. Despite it's small outward appearance, the emporium was enormous and covered top to bottom in interesting wares. We chatted with Gavrak who noted that Rihanna's potion was always meant to be temporary. He showed me some arrows that looked very useful, but they were out of my price range. Xylnessa couldn't stop staring at a weapon called the Fallen Storm, but it was listed for a large fortune and it wasn't meant to be.
@@ -72,8 +72,8 @@ We continued north where we met a traveler from R'Hini who confirmed the missing
 We followed the tracks to a small building built into the side of a hill about a mile north of town. Chase could smell the same intruders here as he smelled at Kharll's house, so we knew we were in the right spot. Chase and I took position outside while Xylnessa smashed the door with her axe. Chase dropped one of the bandits with a single arrow as it came outside to investigate. This kid has promise! Then they hunkered back inside so we smashed down the door and made our entry. One by one we killed them all including one who was hanging dong in the middle of the hallway. My bee training came in clutch as the swarm carried me around and helped kill the bandits. After clearing them and catching our breath, we found evidence that they were members of a cult worshipping a being known as Maiden of Wisdom. We decided to rest up here before exploring an attached cavern in search of Kharll
 
 ## Session 4
-**In-game date: 25th-ishg May**
-**Author: Ylva**
+**In-game date: 25th-ishg May**  
+**Author: Ylva**  
 I had a very weird couple of days. It started with losing all our drinking money betting on Xylnessa in an MMA (Medieval Martial Arts) tournament. Thankfully I was able to make our money back, and then some, by picking the champ's pockets.
 
 The next morning we headed to Himlonde to follow up on a couple odd jobs we'd heard about. First was ... the wolf.  It turns out the supposedly murdered woman, Riana, was just living her best life makin' violent love to the very wolf that the townsfolk claimed had killed her. She'd even had herself wolf-ified for a while with a potion from Gavrak's Mystical Emporium. Some of the townsfolk seemed to know what was really going on, but they were too narrow-minded to accept the love between a groovy lady and her red-rocketed soulmate. With Krate as de facto Mental Health Provider, we were able to convince her and her Wolf Husband to go be groovy in Gloomwood, before their neighbors found some less progressive adventurers to sort out the "wolf problem."
@@ -84,8 +84,8 @@ Two holes on opposite sides of the Hole Oval were swarming with bugs, who were s
 We decided to start a fire and toss some in a bug pit to see if we could draw out whatever evil presence was at work. We predictably had to fend off some angry bugs, but much less predictably also had to dodge some flying skulls and dark magic that the stone started sending out way. A one-two punch from the stone had Wyndham against the ropes, but the selfless and noble Krate sacrificed his one precious spell slot to get Wyndham back on his feet. After squashing every last bug, the stone thankfully fell quiet. Our work completed for now, we made our way back to Gatharam to relax and reassess.
 
 ## Session 3
-**In-game date: ??**
-**Author: Krate the Great**
+**In-game date: ??**  
+**Author: Krate the Great**  
  We rested up a night in Gatharam before heading back out to the tower. I swapped out the bee water and met the others at the gates. We decided to follow my excellent sense of direction and walk straight to the tower across the grasslands. As expected, we got to the forest without issue. Aside from a few thieving badgers, a sea of insects (don't tell anyone, but they definitely ate a few bugs in their sleep) and some weird bear tracks, we didn't encounter anything too scary before reaching the tower. But as we got closer, the bushes started moving and we got charged by a goopy owlbear. I killed most of the bushes and bravely ushered everyone inside before the bear could get us.
 
 Once inside we took a rest then headed upstairs. We saw the owlbear was continuing to stalk the tower, but it couldn't get inside. We found a bedroom with a dead guy in it. It was sad and all, but we didn't want his stuff to go to waste, so we gathered everything up. We found a diary (with a hostile slime) and a bunch of scrolls and some gold. We also found a statue of an elf Queen named Celine and some chalked up runes. We tried messing with the water in the basement too, but we couldn't figure it out.
@@ -95,8 +95,8 @@ Before leaving we decided to deal with the owlbear by dropping a rock on its hea
 We then headed back to town and split the coins. We are getting pretty good at this and are going to find another adventure soon.
 
 ## Session 2
-**In-game date: ??**
-**Author: Krate the Great**
+**In-game date: ??**  
+**Author: Krate the Great**  
 It was a few days after those one guys were killed by bandits. I forget their names, but i don't think they were cut out for adventuring. Anyway, I got the itch to get back out there and make some coin, so I headed back to the tavern to see what I could find.
 
 I'm almost no time flat, I'd found a new group of adventurers that seemed a bit more capable. There was a big red lady named Xylnessa, a big gray-green lady named Ylva, and a big floaty guy named Wyndham. Basically they were all way too big. The floaty one was cool though. He spoke the swamp tongue! He also heard something about a tower and a missing person and some talking birds, I wasn't really listening. But he did say 75 gold, so I was all in from the word go. We found an old lady who told us we needed to head south and to watch out for a poison stream. Seems like a trouble, but ya know... 75 gold...
@@ -109,8 +109,8 @@ Anyway we followed the stream into the woods until we found a half crumbled towe
 (continued) We then found some swords that didn't seem too happy to see us. They flew out of their rack and started swiping at us! They dang near killed Ylva and knocked Xylnessa completely out, but me and Wyndham didn't panic and knocked them to the ground. While we waited for Xylnessa to wake up, Ylva smelled a poop hole. We decided we were in too rough of shape to continue so we headed back to Gatharam. We're gonna head back out in a day or two to finish the job.
 
 ## Session 1
-**In-game date: 4 May**
-**Author: Krate the Great**
+**In-game date: 4 May**  
+**Author: Krate the Great**  
 Krate, Wash, and Stalks joined forces to track down a missing shipment of silver ore for the Village of Rhini. About a half day's journey north-northwest of Gatharam, we encountered a group of seven human men with an upturned cart bickering over who to blame for their predicament. We didn't see any silver ore or anything else that was too sketchy, so we offered to help them men turn the cart upright. Unfortunately, they were sketchy indeed and they drew their weapons on us as soon as we tried to lift the cart.
 
 As a battle broke out, Stalks was knocked unconscious before he could react. Wash managed to take out two of the bandits with some magic tentacle magic before he succumbed to his injuries. Krate was nearly killed before he ran away and ducked into the tall grass. As the bandits searched for him, he popped up and shot them one by one with his short bow. Overcome with goblin fury, he managed to kill them all before they were able to escape. While he was sad to lose his friends, he was consoled by taking their stuff and finding an additional 35 gp from the bandits. He then returned to town to find more adventurers. Hopefully these ones will be more competent.
