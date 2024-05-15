@@ -3,9 +3,9 @@ layout: default
 ---
 # Downtime Activities
 
-Living in  Gatharam costs little compared to an adventurer's income. Any daily cost of living is defrayed in the odd 
+Living in  Gatharam costs little compared to an adventurer's income. Any daily cost of living is defrayed in the odd jobs and relationships that adventurers maintain.
 
-When a character returns to adventure, from any duration of absence, they can perform one Downtime Action. This action can be spent in the following ways (more to be discovered):
+When a character returns to adventure, from an absence of any duration, they can perform one Downtime Action. This action can be spent in the following ways (more to be discovered):
 
 ## Hard work
 Cost: 0 gp. Spend your Downtime Action doing a little extra work. Tell the other players what you were doing, and gain Character Level x Tier d8 gp.
