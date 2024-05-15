@@ -4,6 +4,8 @@ layout: default
 
 # Session Recaps
 
+---
+
 ## Session 8
 **In-game date: ??**  
 **Author: Wyndham Calavar**  
@@ -24,6 +26,8 @@ Anyways, we succeeded and now we’re honorary gloomwood elves and the mother ga
 Love ya diary,
 Wyndham Calavar
 
+---
+
 ## Session 7
 **In-game date: ??**  
 **Author: Krate the Great**  
@@ -33,6 +37,8 @@ As we traveled, Grim seemed to remember that elves used to build shrines on leyl
 
 Eventually we did find some ruins near an impressively large tree in the middle of the plains. Various bas reliefs showed sick and injured travelers bowing to a stone face below the tree, so we climbed down a deep hole to see what we could find. We encountered a weird old carp who wasn’t altogether helpful though he was kind and a little creepy as he mentioned some angry spirits living down here with him. We also found a statue of a woman with an empty basin in her hands, she looked very sad. We filled the basin with water, but it didn’t do anything. Finally we found a neutral looking face carved into a back wall. When we kneeled before it we kinda didn’t care so much about our little problems anymore. They all seemed so insignificant. We decided to leave but not before Chase and Nessa dove underwater to gather an interesting looking sword, dagger and robe on a skeleton.
 Finally we left via a set of very convenient stairs that we maybe should’ve used initially. We made it back to Gatharam in one piece. I’d definitely travel with Grim and Swooper again. Especially Swooper. He really seems to get it in a way that the tall ones never do…
+
+---
 
 ## Session 6
 **In-game date: ??**  
@@ -47,6 +53,8 @@ The next day we found our way to the mysterious door in the hill side. We popped
 
 Eventually we got back to town and caught our breaths. There's a lot more to see and do in that dungeon, but we should probably find more backup first.
 
+---
+
 ## Session 5.5
 **In-game date: 29 May 527**  
 **Author: Chases the Wind**  
@@ -60,6 +68,8 @@ We left for Gatharam first thing in the morning. After returning to town we sold
 
 Well my first official quest with an adventuring party was a lot of fun it was also really scary, but I feel a lot stronger now and ready to take on more quests! At this rate I’ll be high enough level to save Markus from that dragon in no time!
 
+---
+
 ## Session 5
 **In-game date: ??**  
 **Author: Krate the Great**  
@@ -70,6 +80,8 @@ About a mile outside of town we found the rotting bodies of some bandits and som
 We continued north where we met a traveler from R'Hini who confirmed the missing silver was still missing and the forge master himself, a dwarf named Kharll, was also missing. When we got to town, we searched Kharll's home with the blessing of the sheriff where we found tracks leading off to the north. Xylnessa also found a small fortune stashed away, but decided to leave it for Kharll in case he was still alive.
 
 We followed the tracks to a small building built into the side of a hill about a mile north of town. Chase could smell the same intruders here as he smelled at Kharll's house, so we knew we were in the right spot. Chase and I took position outside while Xylnessa smashed the door with her axe. Chase dropped one of the bandits with a single arrow as it came outside to investigate. This kid has promise! Then they hunkered back inside so we smashed down the door and made our entry. One by one we killed them all including one who was hanging dong in the middle of the hallway. My bee training came in clutch as the swarm carried me around and helped kill the bandits. After clearing them and catching our breath, we found evidence that they were members of a cult worshipping a being known as Maiden of Wisdom. We decided to rest up here before exploring an attached cavern in search of Kharll
+
+---
 
 ## Session 4
 **In-game date: 25th-ishg May**  
@@ -83,6 +95,8 @@ Two holes on opposite sides of the Hole Oval were swarming with bugs, who were s
 
 We decided to start a fire and toss some in a bug pit to see if we could draw out whatever evil presence was at work. We predictably had to fend off some angry bugs, but much less predictably also had to dodge some flying skulls and dark magic that the stone started sending out way. A one-two punch from the stone had Wyndham against the ropes, but the selfless and noble Krate sacrificed his one precious spell slot to get Wyndham back on his feet. After squashing every last bug, the stone thankfully fell quiet. Our work completed for now, we made our way back to Gatharam to relax and reassess.
 
+---
+
 ## Session 3
 **In-game date: ??**  
 **Author: Krate the Great**  
@@ -93,7 +107,9 @@ Once inside we took a rest then headed upstairs. We saw the owlbear was continui
 Before leaving we decided to deal with the owlbear by dropping a rock on its head and shooting it with my lucky arrow. It got smooshed and arrowed and ran off into the woods. We decided to follow it and deal with it once and for all because it was dangerous and also because it had been cruelly experimented on and wasn't itself anymore. Everyone did their best, but naturally it fell to me to end the creature with an arrow between the eyes.
 
 We then headed back to town and split the coins. We are getting pretty good at this and are going to find another adventure soon.
+
 ---
+
 ## Session 2
 **In-game date: ??**  
 **Author: Krate the Great**  
@@ -107,6 +123,8 @@ Anyway, we spent a night outside then headed northeast to the Gloomwood. We came
 
 Anyway we followed the stream into the woods until we found a half crumbled tower. We snuck in through the basement, found a cistern with a ring and some carved heads, then snuck upstairs. We found a smashed up chest which probably had something good in it but someone else got their first. (To be continued)
 (continued) We then found some swords that didn't seem too happy to see us. They flew out of their rack and started swiping at us! They dang near killed Ylva and knocked Xylnessa completely out, but me and Wyndham didn't panic and knocked them to the ground. While we waited for Xylnessa to wake up, Ylva smelled a poop hole. We decided we were in too rough of shape to continue so we headed back to Gatharam. We're gonna head back out in a day or two to finish the job.
+
+---
 
 ## Session 1
 **In-game date: 4 May**  

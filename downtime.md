@@ -3,7 +3,7 @@ layout: default
 ---
 # Downtime Activities
 
-Living in  Gatharam costs little compared to an adventurer's income. Any daily cost of living is defrayed in the odd jobs and relationships that adventurers maintain.
+Living in Gatharam costs little compared to an adventurer's income. Any daily cost of living is defrayed in the odd jobs and relationships that adventurers maintain.
 
 When a character returns to adventure, from an absence of any duration, they can perform one Downtime Action. This action can be spent in the following ways (more to be discovered):
 
