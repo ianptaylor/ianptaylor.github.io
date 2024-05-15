@@ -93,7 +93,7 @@ Once inside we took a rest then headed upstairs. We saw the owlbear was continui
 Before leaving we decided to deal with the owlbear by dropping a rock on its head and shooting it with my lucky arrow. It got smooshed and arrowed and ran off into the woods. We decided to follow it and deal with it once and for all because it was dangerous and also because it had been cruelly experimented on and wasn't itself anymore. Everyone did their best, but naturally it fell to me to end the creature with an arrow between the eyes.
 
 We then headed back to town and split the coins. We are getting pretty good at this and are going to find another adventure soon.
-
+---
 ## Session 2
 **In-game date: ??**  
 **Author: Krate the Great**  
