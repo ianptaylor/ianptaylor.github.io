@@ -18,6 +18,9 @@ Characters can stack more than one inspiration at a time. Additionally, a player
 - For writing and posting a session summary
 - For updating the player maintained region map with new locations
 
+### Character HP
+At each level up, instead of rolling for hit points, characters gain the maximum number.
+
 ### Identifying Magic Items
 Characters can identify a magic item by:
 - Using the identify spell
