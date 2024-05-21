@@ -8,11 +8,27 @@ layout: default
 
 ### Gatharam Barracks
 
+### Gatharam Library
+
+### Gavrak's Mysical Emporium
+
+### Monument of Heroes
+
+A granite statue, depicting a goblin makin
+
 ### Silvie Silverson's Silverspoon Teashop
 
 ### The Dead Swan
 
+Run by Ogden Silverless, a half-elf retired adventurer. One of many taverns in Gatharam, but is the go-to tavern for adventurers.
+
 ### The Temple of Banem
+
+Run by priestess Hilde Hildegaard.
+
+Has potions for sale, at a 10% discount:
+- Potion of Healing
+- Potion of Greater Healing
 
 ## Upgrades
 
@@ -28,12 +44,14 @@ Benefit of upgrade: the physical training die improves to a d6
 
 ### Monument of Heroes
 
-Current level: 0  
-Cost to upgrade: 150 gp, 1 downtime action  
-Benefit of upgrade: New characters can start at a level of the player's highest level character (maximum level 4).
+Current level: 1 
+Current benefit: New characters can start at a level of the player's highest level character (maximum level 4). 
+Cost to upgrade: 750 gp, 1 downtime action  
+Benefit of upgrade: New characters can start at a level of the player's highest level character (maximum level 10).
 
 ### The Temple of Banem
 
-Current level: 0  
-Cost to upgrade: 150 gp, 1 downtime action  
-Benefit of upgrade: All potions: 10% discount. New potion for sale: Greater Healing. New downtime action: Service - gain a potion of healing.
+Current level: 1
+Current benefit: All potions: 10% discount. Downtime action: Service. Potions for sale: Potion of Healing, Potion of Greater Healing.
+Cost to upgrade: 750 gp, 1 downtime action  
+Benefit of upgrade: All potions: 15% discount. New potion for sale: Greater Healing. New downtime action: Service - gain a potion of healing.

@@ -7,3 +7,4 @@ These are the known maps of the area surrounding Gatharam. Some variation of the
 
 ![Session 1](./assets/1.png)
 ![Session 8](./assets/6.png)
+![Session 9](./assets/7.png)

@@ -15,6 +15,8 @@ In order of appearance
 - Arneder (@bluefooey)
 - Ormir "Grim" (@pez)
 - Swooper (@gelebs)
+- Skipp (@mail daddy)
+- Thalai Anakalathai (@dougaboo)
 
 ## Deceased
 - Stalks in the Long Grass of the  Howling Prairie (@hagnerd)
