@@ -6,6 +6,30 @@ layout: default
 
 ---
 
+## Session 9
+**In-game date: ??**
+**Author: Thalai Anakalathai**
+It was just as I had foreseen. The adventurers were in the tavern and they were preparing to delve into to the dungeon to the north. While I did not understand its importance, and in truth still do not, I knew we were meant to travel there.
+
+We set out immediately and despite some difficulty navigating these unfamiliar lands, we found the dungeon within a few days travel. We were set upon by a duo of starving manticores, but we were able to fend them off. The little one was nearly eaten, but managed to survive by the skin of their sharp kobold teeth. I gathered  few bone fragments from the manticore we killed for use in the divination process and we continued on our way.
+
+Prior to reaching the dungeon, we encountered a ring of illusory candles surrounding a strange ground that seemed to swallow up whatever it encountered. The smoke indicated the ground would bring us great woe were we to stand within the circle. We decided to note this strange location on the map and continue on our way.
+
+Eventually, we reached the dungeon. We had mild difficulty navigating the pit near the entrance. It seems a prior expedition had destroyed a helpful bridge. Nevertheless we crossed and delved into the depths. The little one was too curious for their own good and licked a mysterious tear after which they were overcome with sadness. Interesting, that.
+
+We discovered a few new rooms as we searched, including a rather unstable chamber with an oddly young tree growing out of the ancient stone. The incense told me there was a strange primordial energy emanating from beneath the tree. I was compelled to touch it, but a strange force attached itself to me and held me tight. I managed to break free as the room slowly crumbled. While I believe this tree was important, I must do more research before I can understand its true significance…
+
+We continued on as the prior room collapsed entirely. We found a strange bedchamber with some miraculously clean bedding and a journal filled with mysterious names. I took the magic sheets and the journal as the rest of the party discovered a valuable set of plate armor.
+
+We heard additional sounds of crumbling rooms at this point and prudently made our way to the exit. While it does not seem the entire dungeon caved in, we did not want to take any unnecessary risks and left.
+
+We returned to Gatharam with a brief stop at Gavrak’s mystical emporium. He offered us a truly princely sum for the armor, which we graciously accepted. With our newfound wealth we can grow in power to aid us in the times to come. 
+
+As the final day of this adventure came to a close, I gazed within the flickering flames of the sacred fire and bathed within its aromatic smoke and began to divine the trials yet to come.
+
+
+---
+
 ## Session 8
 **In-game date: ??**  
 **Author: Wyndham Calavar**  
