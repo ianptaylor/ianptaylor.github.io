@@ -7,8 +7,8 @@ layout: default
 ---
 
 ## Session 9
-**In-game date: ??**
-**Author: Thalai Anakalathai**
+**In-game date: ??**  
+**Author: Thalai Anakalathai**  
 It was just as I had foreseen. The adventurers were in the tavern and they were preparing to delve into to the dungeon to the north. While I did not understand its importance, and in truth still do not, I knew we were meant to travel there.
 
 We set out immediately and despite some difficulty navigating these unfamiliar lands, we found the dungeon within a few days travel. We were set upon by a duo of starving manticores, but we were able to fend them off. The little one was nearly eaten, but managed to survive by the skin of their sharp kobold teeth. I gathered  few bone fragments from the manticore we killed for use in the divination process and we continued on our way.
