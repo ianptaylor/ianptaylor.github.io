@@ -14,7 +14,7 @@ layout: default
 
 ### Monument of Heroes
 
-A granite statue, depicting a goblin makin
+A granite bas relief, depicting a goblin, tabaxi, and air genasi on an adventure.
 
 ### Silvie Silverson's Silverspoon Teashop
 
