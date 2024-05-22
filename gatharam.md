@@ -42,6 +42,12 @@ Current level: 0
 Cost to upgrade: 150 gp, 1 downtime action  
 Benefit of upgrade: the physical training die improves to a d6
 
+### Gatharam Library
+
+Current level: 0
+Cost to upgrade: 150 gp, 1 downtime action
+Benefit of upgrade: the mental training die immmproves to a d6
+
 ### Monument of Heroes
 
 Current level: 1 
