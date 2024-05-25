@@ -45,6 +45,14 @@ Various places in Gatharam can be upgraded, given enough investment by the chara
 
 As these buildings are upgraded, the benefits they provide also improve.
 
+### Aide's Guild
+
+Renmi Arlech has been talking to a few folks around Gatharam about hiring on as help for local adventurers. People are interested, but they need to see coin first. Renmi thinks he could establish an Aide's Guild if he had a one-time investment of 100gp.
+
+Current level: N/A  
+Cost to upgrade: 100 gp, 1 downtime action
+Benefit of upgrade: unlocks hirelings for purchase
+
 ### Gatharam Barracks
 
 Current level: 0  
