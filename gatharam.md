@@ -12,6 +12,15 @@ layout: default
 
 ### Gavrak's Mysical Emporium
 
+A few hours north of Gatharam, next to a standing stone, sits Gavrak's Mystical Emporium. A magic item broker by trade, there are always a few unique items on display, as well as more commonly known items. If you are looking for a specific magic item, there is a 10% chance that Gavrak has the itemm in stock.
+
+Magic item base price ranges:  
+- Common: 20 - 70 gp
+- Uncommon: 100 - 600 gp
+- Rare: 2,000 - 20,000 gp
+- Very rare: 20,000 - 50,000 gp
+- Legendary: 50,000 - 300,000 gp
+
 ### Monument of Heroes
 
 A granite bas relief, depicting a goblin, tabaxi, and air genasi on an adventure.
