@@ -13,7 +13,7 @@ When you roll a critical hit, any additional damage dice that would be rolled us
 While outside of the town of Gatharam, a short rest takes 8 hours and long rests take 7 days.
 
 ### **Inspiration**
-Characters can stack more than one inspiration at a time. Additionally, a player can choose to use an Inspiration after they find out their roll fails. Inspiration will be awarded for the following reasons:
+Characters can stack more than one inspiration at a time. Additionally, a player can choose to use an Inspiration after they find out their roll fails. Inspiration will be awarded for the following reasons:  
 - At the DM’s discretion
 - For writing and posting a session summary
 - For updating the player maintained region map with new locations

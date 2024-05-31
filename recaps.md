@@ -6,6 +6,21 @@ layout: default
 
 ---
 
+## Session 10
+**In-game date: ??**  
+**Author: Thalai Anakalathai**  
+As we plotted out our next adventure, we learned of a strange underwater tunnel in an ancient shrine somewhere south of Gatharam. Krate the Great, a local goblin of some renown, indicated they had discovered the tunnel some weeks ago but had not fully explored it. With the assistance of a new arrival to Gatharam, a half orc named Daias, Slipp and Wyndham and I set out for the shrine.
+
+On our way to the shrine, we discovered a giant-shaped and giant-sized mound covered in mushrooms. The smoke gave me an indication that something in the ground was of interest, so we dug down and discovered a magical belt that fit me nicely and allowed me to tap into the great strength of my people and my ancestors.
+
+The following night, Slipp noticed a group of individuals (he did not notice how many or what they looked like or literally anything that would have been helpful) digging in the grass. After they left, he found a large metal box buried in the ground. We opened the box and discovered a strange skull mask covered in a variety of gemstones. We noted that the box was made of lead, frequently used to mask objects from divination magic, so we decided to keep the mask in the box and take it with us.
+
+Finally we reached the shrine and the underwater tunnel. Within, we found a large chamber with a strange device in the center. We learned the device could be used to condense emotions into physical substances that could be consumed later. We also discovered an old chamber with old documents where we were attacked by a specter. After killing the creature, we obtained a crown that would allow us to more effectively use the condensed emotions created by the device. We took the device and crown with us and returned to Gatharam.
+
+Finally, as we neared the city outskirts, we witnessed a massive explosion and plume of smoke rising from the mountains to the north...
+
+---
+
 ## Session 9
 **In-game date: ??**  
 **Author: Thalai Anakalathai**  
