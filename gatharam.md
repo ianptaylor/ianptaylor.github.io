@@ -35,7 +35,7 @@ Run by Ogden Silverless, a half-elf retired adventurer. One of many taverns in G
 
 Run by priestess Hilde Hildegaard.
 
-Has potions for sale, at a 10% discount:
+Has potions for sale, at a 15% discount:
 - Potion of Healing
 - Potion of Greater Healing
 
