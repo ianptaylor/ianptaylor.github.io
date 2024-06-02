@@ -21,4 +21,5 @@ These are the gods and godesses praised in the Empire of Manthiel. People from o
 
 ## Other Deities in Enghazi
 
-Asac the Protector, worshiped in Rhini.
+Asac the Protector, worshiped in Rhini.  
+Alionwel, God of the Sky.  
