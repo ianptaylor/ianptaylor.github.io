@@ -33,8 +33,7 @@ Run by Ogden Silverless, a half-elf retired adventurer. One of many taverns in G
 
 ### The Temple of Banem
 
-Run by priestess Hilde Hildegaard.
-
+Run by priestess Hilde Hildegaard.  
 Has potions for sale, at a 15% discount:
 - Potion of Healing
 - Potion of Greater Healing
