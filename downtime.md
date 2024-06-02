@@ -19,6 +19,9 @@ Cost: 25 gp. Spend your Downtime Action engaging in research at the Gatharam Lib
 ## Service at the Temple of Banem
 Cost: 0 gp. Spend your Downtime Action engaging in worship or some other form of clerical service for Hilde Hildegaard. You gain a Potion of Healing in exchange for your service.
 
+## Research
+Cost: 25 gp. Spend your Downtime Action doing some form of research -- at the library, asking around Gatharam, or investigating other leads. Tell everyone what you're searching for, and how you're doing it. Then roll the appropriate skill, as determined by the DM. On a roll of 8 or less, you can ask the DM 1 question, which they will answer truthfully. On a roll of 9 to 15, you can ask 2 questions. On a roll of 16+, 3 questions.
+
 ## Buy a Magic Item
 Cost: Varies. Spend your Downtime Action brokering a deal with Gavrak to find one specific magic item you are looking for. Pay the cost of the item, plus the brokerage fee, and you can add the item to your inventory.
 
