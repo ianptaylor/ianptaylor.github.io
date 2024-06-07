@@ -6,6 +6,17 @@ layout: default
 
 ---
 
+## Session 11
+**In-game date: ??**  
+**Author: Krate the Great**  
+The party consisting of Krate (the Great), Daias, Skipp, Grim and Swooper met up at the Dead Swan and plotted out an adventure north to investigate the ominous plume of smoke and ash rising from the mountains. After a day of preparation, they struck out toward Rhini to see if the villagers were safe. After a day and a half’s travel, they arrived to see the townsfolk behaving normally (which is to say, abnormally). They briefly considered stealing the treasure horde they’d discovered a few months prior, but decided to just avoid the town altogether. Those people ain’t right…
+
+Anyway, they continued traveling north into the foothills of the mountains where they noticed a commotion in the distance. As they approached, they saw a pair of elven adventurers battling a pack of enormous wolves. However they weren’t just any wolves as they seemed to be regenerating every few seconds. Undeterred, the party joined the fray, trying and failing repeatedly to kill the wolves. Finally, when all hope seemed to be lost, Swooper decided to try burning the wolves as they fell. It worked! The fire prevented the regeneration which allowed the party along with the two elves to defeat the wolves, but it came at a great cost.
+
+Having expended many resources and not having gotten particularly close to their destination, the party decided to head back to Gatharam with their new elven “friends” Elianal and Aenon. However, the elves didn’t seem particularly open to friendship or to rewarding the party’s selfless rescue. The group returned to town safely and began their recovery
+
+---
+
 ## Session 10
 **In-game date: ??**  
 **Author: Thalai Anakalathai**  
