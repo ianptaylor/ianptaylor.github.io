@@ -49,9 +49,9 @@ Bonus Action: Forage. Spend 1 day to two day's worth of food for you and your pa
 21+ Bonus: Shortcut. Gain 1 day of movement.
 
 #### Stealth
-* Camoflage: Spend 1 Travel Action to give the entire party advantage on Stealth checks for 1 hour.
+* Camoflauge: Spend 1 Travel Action to give the entire party advantage on Stealth checks for 1 hour.
 * Assassinate: Spend 1 Travel Action to set a surprise on an enemy.
-* Hide Cammp: Spend 1 Travel Action to locate a hidden camp site for resting.  
+* Hide Camp: Spend 1 Travel Action to locate a hidden camp site for resting.  
 
 Bonus Action: The Long Route. Spend 1 day and avoid an enemy's notice.  
 21+ Bonus: Shortcut. Gain 1 day of movement.
@@ -62,4 +62,4 @@ Bonus Action: The Long Route. Spend 1 day and avoid an enemy's notice.
 * Motivate: Spend 1 Travel Action to givee your party advantage on Acrobatics or Athletics checks for 1 hour.  
 
 Bonus Action: Forced March. Gain 1 day of movement, but also gain 1 level of exhaustion.  
-21+ Bonus: Brute Force. Locatee a secure camp site for resting.
+21+ Bonus: Brute Force. Locatee a secure campsite for resting.
