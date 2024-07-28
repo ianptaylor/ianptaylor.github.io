@@ -49,7 +49,7 @@ Bonus Action: Forage. Spend 1 day to two day's worth of food for you and your pa
 21+ Bonus: Shortcut. Gain 1 day of movement.
 
 #### Stealth
-* Camoflauge: Spend 1 Travel Action to give the entire party advantage on Stealth checks for 1 hour.
+* Camouflage: Spend 1 Travel Action to give the entire party advantage on Stealth checks for 1 hour.
 * Assassinate: Spend 1 Travel Action to set a surprise on an enemy.
 * Hide Camp: Spend 1 Travel Action to locate a hidden camp site for resting.  
 
