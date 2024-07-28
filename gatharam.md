@@ -46,11 +46,11 @@ As these buildings are upgraded, the benefits they provide also improve.
 
 ### Aide's Guild
 
-Renmi Arlech has been talking to a few folks around Gatharam about hiring on as help for local adventurers. People are interested, but they need to see coin first. Renmi thinks he could establish an Aide's Guild if he had a one-time investment of 100gp.
+Renmi Arlech has been talking to a few folks around Gatharam about hiring on as help for local adventurers. Word has spread after the initial seed funding from Skip. While the initial pool of Hirelings is very green, other candidates could be recruited.
 
-Current level: 0  
-Cost to upgrade: 150 gp, 1 downtime action  
-Benefit of upgrade: unlocks hirelings for purchase
+Current level: 1  
+Cost to upgrade: 500 gp, 1 downtime action  
+Benefit of upgrade: unlocks more skilled hirelings for purchase
 
 ### Gatharam Barracks
 

@@ -6,6 +6,23 @@ layout: default
 
 ---
 
+## Session 12
+**In-gamee date: ??**  
+**Author: Krate the Great**  
+Krate, Daias, Skipp and Ylva went north in search of the volcanic eruption. On the way, the encountered a bunch of animal/human hybrids listening to a speech given by a gnome in a tree. The gnome seemed to be encouraging them to leap into a pit to their death in order to bring back their god. As one creature was moving toward the pit, we intervened.
+
+Upon seeing us, the gnome disappeared into a trap door in the tree. Krate followed the gnome, discovering several rooms, a cavern, and a shrine. He was unable to locate the gnome, however he met an enormous sentient lizard that seemed to be feeding on the creatures from above. He also claimed to be guarding some kind of archives (? Memory fuzzy)
+
+Krate returned to the surface and did his best to convince the creatures that they weren't bringing back any gods and were instead just feeding a giant lizard. It's not clear if they believed him, but regardless, the party continued on their way.
+
+They then reached the base of the mountains where an enormous army had gathered and seemed to be digging for something. The party did some investigating and witnessed the leader of the encampment arrive. He seemed very upset that they had not yet found what they were looking for.
+
+As the party snuck out to warn Gatharam, the army was attacked by an enormous red dragon which sent them scattering.
+
+They then returned home and got really drunk and forgot most of the details of their journey.
+
+---
+
 ## Session 11
 **In-game date: ??**  
 **Author: Krate the Great**  
