@@ -14,7 +14,7 @@ Cost: 0 gp. Spend your Downtime Action doing a little extra work. Tell the other
 Cost: 25 gp. Spend your Downtime Action engaging in training at the Gatharam Barracks. You gain a d6, which you can add to all Strength, Dexterity, or Constitution ability checks and saving throws for the next adventure.
 
 ## Mental Training
-Cost: 25 gp. Spend your Downtime Action engaging in research at the Gatharam Library. You gain a d4, which you can add to all Inntelligence, Wisdom, or Charisma ability checks and saving throws for the next advennture.
+Cost: 25 gp. Spend your Downtime Action engaging in research at the Gatharam Library. You gain a d4, which you can add to all Intelligence, Wisdom, or Charisma ability checks and saving throws for the next adventure.
 
 ## Service at the Temple of Banem
 Cost: 0 gp. Spend your Downtime Action engaging in worship or some other form of clerical service for Hilde Hildegaard. You gain a Potion of Healing in exchange for your service.
