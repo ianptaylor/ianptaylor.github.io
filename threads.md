@@ -17,3 +17,4 @@ These are the current open threads:
 10. The tomb of Esur the Red is somewhere out there. Legends tell of his heavy black iron ring which he wore braided into his beard. With this ring, he was said to have defeated hordes of undead, and the Lich King Kasdall.
 11. Somewhere between R'Hini and Muck's door, there's a ring of illusionary candles. The center of the ring is made of sinking rock, dirt, and sand.
 12. A volcano, deep in the Anvil Mountains recently erupted. It's all anyone in Gatharam is talking about.
+13. The Lost Undercrypt of Ages, somewhere in the Western Gatharaz Plains, holds a vast wealth of historical knowledge. Though the price of admissions is high, and not always paid in gold.

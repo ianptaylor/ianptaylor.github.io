@@ -54,9 +54,9 @@ Benefit of upgrade: unlocks more skilled hirelings for purchase
 
 ### Gatharam Barracks
 
-Current level: 0  
-Cost to upgrade: 150 gp, 1 downtime action  
-Benefit of upgrade: the physical training die improves to a d6
+Current level: 1  
+Cost to upgrade: 500 gp, 1 downtime action  
+Benefit of upgrade: the physical training die improves to a d8
 
 ### Gatharam Library
 
