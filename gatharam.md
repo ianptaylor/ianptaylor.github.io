@@ -12,7 +12,7 @@ layout: default
 
 ### Gavrak's Mysical Emporium
 
-A few hours north of Gatharam, next to a standing stone, sits Gavrak's Mystical Emporium. A magic item broker by trade, there are always a few unique items on display, as well as more commonly known items. If you are looking for a specific magic item, there is a 10% chance that Gavrak has the itemm in stock.
+A few hours north of Gatharam, next to a standing stone, sits Gavrak's Mystical Emporium. A magic item broker by trade, there are always a few unique items on display, as well as more commonly known items. If you are looking for a specific magic item, there is a 10% chance that Gavrak has the item in stock.
 
 Magic item base price ranges:  
 - Common: 20 - 70 gp
@@ -54,15 +54,15 @@ Benefit of upgrade: unlocks more skilled hirelings for purchase
 
 ### Gatharam Barracks
 
-Current level: 1  
-Cost to upgrade: 500 gp, 1 downtime action  
-Benefit of upgrade: the physical training die improves to a d8
+Current level: 2  
+Cost to upgrade: 1,500 gp, 1 downtime action  
+Benefit of upgrade: the physical training die improves to a d10
 
 ### Gatharam Library
 
 Current level: 0  
 Cost to upgrade: 150 gp, 1 downtime action  
-Benefit of upgrade: the mental training die immmproves to a d6
+Benefit of upgrade: the mental training die improves to a d6
 
 ### Monument of Heroes
 
