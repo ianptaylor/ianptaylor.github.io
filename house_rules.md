@@ -62,4 +62,4 @@ Bonus Action: The Long Route. Spend 1 day and avoid an enemy's notice.
 * Motivate: Spend 1 Travel Action to givee your party advantage on Acrobatics or Athletics checks for 1 hour.  
 
 Bonus Action: Forced March. Gain 1 day of movement, but also gain 1 level of exhaustion.  
-21+ Bonus: Brute Force. Locatee a secure campsite for resting.
+21+ Bonus: Brute Force. Locate a secure campsite for resting.

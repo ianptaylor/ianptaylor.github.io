@@ -26,7 +26,7 @@ Cost: 25 gp. Spend your Downtime Action doing some form of research -- at the li
 Cost: Varies. Spend your Downtime Action brokering a deal with Gavrak to find one specific magic item you are looking for. Pay the cost of the item, plus the brokerage fee, and you can add the item to your inventory.
 
 ## Hire additional Help
-Cost: 50 gp. Spend your Downtime Action carousing in the Aide's Guild. For the next adventure, you have a Hireling (level 1). Not much more than a schlepper, this Hireling grants you an additiona carrying capacity of 150 lbs.
+Cost: 50 gp. Spend your Downtime Action carousing in the Aide's Guild. For the next adventure, you have a Hireling (level 1). Not much more than a schlepper, this Hireling grants you an additional carrying capacity of 150 lbs.
 
 ## Improve Gatharam
 Cost: varies. Spend your Downtime Action building an improvement for Gatharam. Pay the cost to establish a new town feature, or level up an existing town feature.
