@@ -7,7 +7,7 @@ layout: default
 These are the current open threads:
 
 1. Go explore! Pick a direction and see what's out there.
-2. The stream flowing from the Elvish Tower in the Gloomwood is toxid; there is a half-full cistern of glowing water in the cellar.
+2. The stream flowing from the Elvish Tower in the Gloomwood is toxic; there is a half-full cistern of glowing water in the cellar.
 3. The cult of the Maiden of Wisdom is searching for The Roguekin, as part of their summoning ritual (presumably).
 4. It's not clear what was causing the holes full of teeth and bugs by the standing stone, west of Himlonde.
 5. ~~Gavrak (of Gavrak's Mysical Emporium) will pay a premium for any and all pearls brought to him.~~ Gavrak is no longer interested in pearls.
