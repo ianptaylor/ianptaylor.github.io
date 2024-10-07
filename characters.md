@@ -17,6 +17,9 @@ In order of appearance
 - Swooper (@gelebs)
 - Skipp (@mail daddy)
 - Thalai Anakalathai (@dougaboo)
+- Daias Hr'zeth (@Fall Risk)
+- Wynfir Ivansson (@hagnerd)
+- Paias Hr'zeth (@mail daddy)
 
 ## Deceased
 - Stalks in the Long Grass of the  Howling Prairie (@hagnerd)
